@@ -1,0 +1,35 @@
+NAME,ADDRESS,LAT,LON
+Edificio Altino Arantes,R. Joao Bricola 24 - Centro Sao Paulo-SP 01014-900,-23.5457,-46.6341
+Edificio Copan,Av. Ipiranga 344 - Centro Sao Paulo-SP 01046-000,-23.5455,-46.6433
+Edificio Martinelli,R. Sao Bento 405 - Centro Sao Paulo-SP 01011-100,-23.5456,-46.6350
+Museu de Arte Contemporanea,Av. Pedro Alvares Cabral 1301 - Vila Mariana Sao Paulo-SP 04094-050,-23.5890,-46.6510
+Patio do Colegio,Praca Pateo do Collegio 2 - Centro Sao Paulo-SP 01016-040,-23.5480,-46.6326
+Catedral da Se,Praca da Se - Centro Sao Paulo-SP 01001-000,-23.5513,-46.6343
+Mosteiro de Sao Bento,Largo de Sao Bento 48 - Centro Sao Paulo-SP 01029-010, -23.5442,-46.6338
+Theatro Municipal,Praca Ramos De Azevedo - Republica Sao Paulo-SP 01037-010,-23.5452,-46.6386
+Mercado Municipal,R. Cantareira 306 - Centro Sao Paulo-SP 01103-200,-23.5424,-46.6296
+Centro Cultural Banco do Brasil,R. Alvares Penteado 112 - Centro Sao Paulo-SP 01012-000,-23.5474,-46.6346
+Estacao da Luz,Av. Prestes Maia 925 - Santa Ifigenia Sao Paulo-SP 01031-001,-23.5351,-46.6353
+Museu da Lingua Portuguesa,Praca da Luz - Luz Sao Paulo-SP 01120-010,-23.5347,-46.6350
+Pinacoteca do Estado de Sao Paulo,Praca da Luz 2 - Luz Sao Paulo-SP 01120-010, -23.5342,-46.6336
+Avenida Paulista,Av. Paulista 575 - Bela Vista Sao Paulo-SP 01311-100,-23.5681,-46.6492
+Museu de Arte de Sao Paulo (MASP),Av. Paulista 1578 - Bela Vista Sao Paulo-SP 01310-200,-23.5614,-46.6559
+Centro Cultural Fiesp - Ruth Cardoso,Av. Paulista 1313 - Cerqueira Cesar - Sao Paulo - SP 01311-200,-23.5635,-46.6545
+Itau Cultural,Av. Paulista 149 - Bela Vista Sao Paulo-SP 01310-000,-23.5704,-46.6459
+Casa das Rosas,Av. Paulista 37 - Paraiso Sao Paulo-SP 01311-000,-23.5711,-46.6452
+Rua Augusta,Rua Augusta - Cerqueira Cesar Sao Paulo-SP 01412-100,-23.5552,-46.6569
+Rua Oscar Freire,Rua Oscar Freire - Jardim Paulista Sao Paulo-SP 01426-002,-23.5662,-46.6654
+Museu do Futebol,Praca Charles Miler- Pacaembu Sao Paulo-SP 01234-010,-23.5475,-46.6649
+Parque Ibirapuera,Av. Pedro Alvares Cabral - Vila Mariana Sao Paulo-SP 04094-050,-23.5874,-46.6576
+Museu de Arte Moderna de Sao Paulo (MAM-SP),Ibirapuera Park - Av. Pedro Alvares Cabral - Vila Mariana Sao Paulo-SP 04094-000,-23.5878,-46.6557
+Fundacao Bienal,Av. Pedro Alvares Cabral - Vila Mariana Sao Paulo-SP 04094-000,-23.5880,-46.6538
+Auditorio Ibirapuera,Av. Pedro Alvares Cabral - Vila Mariana Sao Paulo-SP 04094-050,-23.5856,-46.6565
+Beco do Batman,R. Goncalo Afonso - Vila Madalena Sao Paulo-SP 05435-000,-23.5566,-46.6866
+Memorial da America Latina,Av. Auro Soares de Moura Andrade 664 - Barra Funda Sao Paulo-SP 01156-001,-23.5268,-46.6643
+SESC Pompeia,R. Clelia 93 - Agua Branca Sao Paulo-SP 05042-000,-23.5261,-46.6833
+Instituto Tomie Ohtake,Rua Corope 88 - Pinheiros Sao Paulo-SP 05426-100,-23.5607,-46.6946
+Parque da Agua Branca,Av. Francisco Matarazzo 455 - Agua Branca Sao Paulo-SP 05001-000,-23.5305,-46.6700
+Parque Villa Lobos,Av. Prof. Fonseca Rodrigues 2001 - Alto de Pinheiros Sao Paulo-SP 05461-010,-23.5458,-46.7206
+Museu da Imagem e do Som,Av. Europa 158 - Jardim Europa Sao Paulo-SP 01449-000,-23.5728,-46.6762
+Palacio dos Bandeirantes,Av. Morumbi 4500 - Morumbi Sao Paulo-SP 05650-000,-23.6012,-46.7119
+Parque da Independencia,Av. Nazare - Ipiranga Sao Paulo-SP 04263-200,-23.5842,-46.6098
